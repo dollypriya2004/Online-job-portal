@@ -26,7 +26,7 @@ The **Online Job Portal** is a web-based platform that connects **job seekers** 
 - Users can view application status and recruiters can track applicants.
 - Recruiters can shortlist, accept, or reject candidates.
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Backend**: Django (Python)
 - **Database**: SQLite / PostgreSQL
